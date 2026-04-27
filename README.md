@@ -43,9 +43,3 @@
 ###
 
 <h2 align="center"> 🛠️ Atividades Recentes no GitHub </h2>
-
-<div align="center">
-
-</div>
-
-###
