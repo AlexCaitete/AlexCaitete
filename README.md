@@ -43,3 +43,6 @@
 ###
 
 <h2 align="center"> 🛠️ Atividades Recentes no GitHub </h2>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
