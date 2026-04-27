@@ -8,10 +8,12 @@ jobs:
   update-readme:
     name: Update README with latest activity
     runs-on: ubuntu-latest
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - uses: actions/checkout@v4
-      - uses: gautamkrishnar/blog-post-workflow@master
+
+      - uses: Readme-Workflows/recent-activity@v2.0.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          feed_list: "https://github.com/AlexCaitete.atom"
+          USERNAME: AlexCaitete
+          MAX_LINES: 5
