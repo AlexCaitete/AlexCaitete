@@ -45,13 +45,22 @@
 <h2 align="center"> 🚀 Meus Projetos </h2>
 
 <!--START_SECTION:projects-->
-| Projeto | Descrição | Linguagens/Ferramentas | Stars |
-|--------|-----------|----------------------|-------|
-
-| [AlexCaitete](https://github.com/AlexCaitete/AlexCaitete) | Sem descrição | Python | ⭐ 0 |
-| [meu-projeto-frontend](https://github.com/AlexCaitete/meu-projeto-frontend) | Sem descrição | — | ⭐ 0 |
-| [Prova-front-end](https://github.com/AlexCaitete/Prova-front-end) | Sem descrição | HTML, CSS | ⭐ 0 |
-| [atividades-poo](https://github.com/AlexCaitete/atividades-poo) | Sem descrição | Java | ⭐ 0 |
-| [PythonProject4](https://github.com/AlexCaitete/PythonProject4) | Projeto em Python que consulta a API OpenWeather e salva o histórico no SQL Server | Python | ⭐ 0 |
-
+<table>
+<tr>
+<td><a href="https://github.com/AlexCaitete/meu-projeto-frontend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexCaitete&repo=meu-projeto-frontend&theme=dracula&hide_border=false" />
+</a></td>
+<td><a href="https://github.com/AlexCaitete/Prova-front-end">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexCaitete&repo=Prova-front-end&theme=dracula&hide_border=false" />
+</a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/AlexCaitete/atividades-poo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexCaitete&repo=atividades-poo&theme=dracula&hide_border=false" />
+</a></td>
+<td><a href="https://github.com/AlexCaitete/PythonProject4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexCaitete&repo=PythonProject4&theme=dracula&hide_border=false" />
+</a></td>
+</tr>
+</table>
 <!--END_SECTION:projects-->
