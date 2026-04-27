@@ -1,20 +1,37 @@
-name: Latest Projects
+name: Update README with Projects
+
 on:
+  push:
+    branches: [main]       # roda quando você faz push em QUALQUER repo? Não...
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 * * * *'    # verifica a cada 1 hora
   workflow_dispatch:
 
 jobs:
   update-readme:
-    name: Update README with latest activity
     runs-on: ubuntu-latest
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - uses: actions/checkout@v4
 
-      - uses: Readme-Workflows/recent-activity@v2.0.0
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instala dependências
+        run: pip install requests
+
+      - name: Roda o script
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          GH_USERNAME: AlexCaitete
+        run: python scripts/update_readme.py
+
+      - name: Commit e push do README
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "⚡ Atualiza projetos no README"
+          git push
