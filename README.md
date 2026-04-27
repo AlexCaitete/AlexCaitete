@@ -42,7 +42,7 @@
 
 ###
 
-<h2 align="center"> 🛠️ Atividades Recentes no GitHub </h2>
+<h2 align="center"> 🚀 Meus Projetos </h2>
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!--START_SECTION:projects-->
+<!--END_SECTION:projects-->
