@@ -45,4 +45,13 @@
 <h2 align="center"> 🚀 Meus Projetos </h2>
 
 <!--START_SECTION:projects-->
+| Projeto | Descrição | Linguagens/Ferramentas | Stars |
+|--------|-----------|----------------------|-------|
+
+| [AlexCaitete](https://github.com/AlexCaitete/AlexCaitete) | Sem descrição | Python | ⭐ 0 |
+| [meu-projeto-frontend](https://github.com/AlexCaitete/meu-projeto-frontend) | Sem descrição | — | ⭐ 0 |
+| [Prova-front-end](https://github.com/AlexCaitete/Prova-front-end) | Sem descrição | HTML, CSS | ⭐ 0 |
+| [atividades-poo](https://github.com/AlexCaitete/atividades-poo) | Sem descrição | Java | ⭐ 0 |
+| [PythonProject4](https://github.com/AlexCaitete/PythonProject4) | Projeto em Python que consulta a API OpenWeather e salva o histórico no SQL Server | Python | ⭐ 0 |
+
 <!--END_SECTION:projects-->
