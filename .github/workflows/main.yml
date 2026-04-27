@@ -1,0 +1,17 @@
+name: Latest Projects
+on:
+  schedule:
+    # Atualiza automaticamente a cada 24 horas
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Permite que você clique em um botão para atualizar na hora
+
+jobs:
+  update-readme:
+    name: Update README with latest activity
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "RECENT_PROJECTS"
+          feed_list: "https://github.com/AlexCaitete.atom"
