@@ -50,8 +50,8 @@ Tenho aplicado meus conhecimentos em soluções completas, criando interfaces mo
 ### 📊 Minhas Estatísticas do GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=AlexCaitete&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=AlexCaitete&layout=compact&theme=tokyonight&langs_count=6" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AlexCaitete&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexCaitete&theme=tokyonight" />
 </p>
 
 ---
