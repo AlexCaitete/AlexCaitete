@@ -50,8 +50,16 @@ Tenho aplicado meus conhecimentos em soluções completas, criando interfaces mo
 ### 📊 Minhas Estatísticas do GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AlexCaitete&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexCaitete&theme=tokyonight" />
+  <!-- Gráfico de Linhas de Código Modificadas -->
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexCaitete&theme=tokyonight" />
+  
+  <!-- Gráfico de Contribuições Semanais -->
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/commit-program?username=AlexCaitete&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <!-- Troféus de Conquistas do GitHub -->
+  <img src="https://github-profile-trophy.vercel.app/?username=AlexCaitete&theme=tokyonight&column=4" />
 </p>
 
 ---
