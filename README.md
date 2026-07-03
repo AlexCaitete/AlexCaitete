@@ -1,10 +1,10 @@
 # Olá, eu sou o Alex Roberto! 👋
 
-### 🚀 Desenvolvedor Full Stack | Ênfase em Back-End & Dados
+### 🚀 Desenvolvedor Back-End & Dados
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** baseado em Recife-PE e atuo no desenvolvimento de aplicações de ponta a ponta. Minha grande paixão técnica está na construção de arquiteturas Back-End robustas, modelagem de banco de dados e engenharia de dados, combinando inteligência de negócios com interfaces dinâmicas e funcionais no Front-End.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** baseado em Recife-PE. Vivendo a realidade de um dos maiores ecossistemas de inovação do país, o **Porto Digital**, tenho focado minha trajetória em aprender a transformar dados em inteligência estratégica e eficiência operacional. 
 
-Para dar suporte a projetos globais e colaborar em times internacionais, dedico parte da minha rotina ao estudo avançado da língua inglesa.
+Minha base analítica é impulsionada por uma forte afinidade com lógica, cálculos e resolução de problemas estruturados. Atualmente, dedico meus estudos à construção de arquiteturas Back-End robustas, modelagem de bancos de dados e engenharia de dados (pipelines de ETL), além de manter classes particulares de inglês duas vezes por semana para estar pronto para desafios globais.
 
 ---
 
@@ -16,6 +16,7 @@ Para dar suporte a projetos globais e colaborar em times internacionais, dedico 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-074D5B?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 #### **Front-End & Interface**
@@ -30,34 +31,29 @@ Para dar suporte a projetos globais e colaborar em times internacionais, dedico 
 
 ### 💻 Experiência e Projetos Recentes
 
-Tenho aplicado meus conhecimentos em soluções completas, criando interfaces modernas de Front-End conectadas a arquiteturas inteligentes e pipelines de automação:
+Tenho desenvolvido soluções práticas focadas em problemas reais, integrando automação de dados, inteligência de negócios e desenvolvimento de sistemas:
 
-*   **AIOps Guardian (Front-End & Operações):**
-    Desenvolvimento da interface de usuário focada em monitoramento e operações inteligentes. Utilizando **React**, criei dashboards funcionais e dinâmicos para visualização de métricas e alertas automatizados, priorizando a usabilidade e a rápida resposta a incidentes no ecossistema de infraestrutura.
+* **Cockpit de Inteligência Comercial (Dados & BI):** Atuação no desenvolvimento de um ecossistema de inteligência de negócios dentro do ambiente do Porto Digital. Contribuí com a criação de scripts de ETL (Extração, Transformação e Carga) e modelagem de dados relacionais utilizando **PostgreSQL**, auxiliando na estruturação de painéis dinâmicos para tomada de decisão.
 
-*   **Softcom (Front-End):**
-    Atuação no desenvolvimento e refinamento de interfaces para soluções de tecnologia comercial. Implementação de componentes reutilizáveis em **React**, garantindo uma experiência de usuário fluida, integrada e alinhada com as necessidades de sistemas de gestão e negócios.
+* **Consultor Climático (Data Pipeline & Back-End):** Pipeline completo de ingestão e consumo de dados desenvolvido em **Python**. O sistema consome de forma automatizada a API externa do OpenWeatherMap, realiza o tratamento dos dados e executa a persistência segura em bancos de dados relacionais utilizando **SQLite** e **SQL Server integrados à nuvem Azure**.
 
-*   **Consultor Climático (Data Pipeline & Back-End):** 
-    Desenvolvimento completo de um pipeline de ingestão de dados utilizando **Python**. O sistema consome de forma automatizada a API do OpenWeatherMap, realiza o tratamento e a estruturação dos dados climáticos e faz a persistência segura em bancos de dados relacionais utilizando **SQLite** e **SQL Server integrados à nuvem Azure**.
-    
-*   **Cockpit de Inteligência Comercial (Full Stack & BI):** 
-    Atuação no desenvolvimento de um ecossistema de inteligência de negócios. Fui responsável pela criação de scripts de ETL (Extração, Transformação e Carga) e modelagem de dados complexos com **PostgreSQL**. No ecossistema do projeto, integramos ferramentas modernas de desenvolvimento para disponibilizar painéis dinâmicos e intuitivos aos usuários finais.
+* **AIOps Guardian (Front-End & Operações):**
+    Desenvolvimento de interface funcional focada em monitoramento e operações inteligentes. Utilizando **React**, ajudei a construir dashboards dinâmicos para visualização de métricas e alertas automatizados de infraestrutura, priorizando a usabilidade.
+
+* **Softcom (Front-End):**
+    Aplicação e refinamento de interfaces para soluções de tecnologia comercial. Implementação de componentes reutilizáveis em **React**, focando em entregar uma experiência fluida e integrada para sistemas de gestão de negócios.
 
 ---
 
 ### 📊 Minhas Estatísticas do GitHub
 
 <p align="center">
-  <!-- Gráfico de Linhas de Código Modificadas -->
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexCaitete&theme=tokyonight" />
   
-  <!-- Gráfico de Contribuições Semanais -->
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/commit-program?username=AlexCaitete&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <!-- Troféus de Conquistas do GitHub -->
   <img src="https://github-profile-trophy.vercel.app/?username=AlexCaitete&theme=tokyonight&column=4" />
 </p>
 
@@ -65,7 +61,7 @@ Tenho aplicado meus conhecimentos em soluções completas, criando interfaces mo
 
 ### 🤝 Conecte-se Comigo
 
-Estou sempre aberto a novos desafios, projetos colaborativos e networking. Vamos conversar!
+Estou sempre aberto a novos desafios de aprendizado, projetos de estágio/residência e networking. Vamos conversar!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/alex-roberto-alves-90b99a37b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-roberto-alves-90b99a37b/)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexroberto.alves@gmail.com)
