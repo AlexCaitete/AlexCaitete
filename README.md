@@ -2,7 +2,7 @@
 
 ### 🚀 Desenvolvedor Back-End & Dados
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** baseado em Recife-PE. Vivendo a realidade de um dos maiores ecossistemas de inovação do país, o **Porto Digital**, tenho focado minha trajetória em aprender a transformar dados em inteligência estratégica e eficiência operacional. 
+Sou estudante de **Análise e Desenvolvimento de Sistemas** com previsão de termino para 2027.2 e base em Recife-PE. Vivendo a realidade de um dos maiores ecossistemas de inovação do país, o **Porto Digital**, tenho focado minha trajetória em aprender a transformar dados em inteligência estratégica e eficiência operacional. 
 
 Minha base analítica é impulsionada por uma forte afinidade com lógica, cálculos e resolução de problemas estruturados. Atualmente, dedico meus estudos à construção de arquiteturas Back-End robustas, modelagem de bancos de dados e engenharia de dados (pipelines de ETL), além de manter classes particulares de inglês duas vezes por semana para estar pronto para desafios globais.
 
